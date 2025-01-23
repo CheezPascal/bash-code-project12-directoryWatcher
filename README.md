@@ -1,4 +1,4 @@
-# bash-cpde-project12-directoryWatcher
+# bash-code-project12-directoryWatcher
 Making a simple directory watcher 
 
 Installation:
